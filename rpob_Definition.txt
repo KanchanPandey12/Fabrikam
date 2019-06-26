@@ -1,0 +1,15 @@
+1: Fabrikam Company want to build and host Information management solution in web.
+
+2 Organization want to show their product online to potential customers.
+
+3. Organization want feedback from customer related their online shopping experience and product.
+
+4 .Want to build and host  Feedback Management system.
+
+5. Want to build and host Leave Management system/information.
+
+6. company want to their employees can access and manage the management system. 
+
+7. Company has Amazon Webservices Cloud Subcription,  to use system as infrastructure as a service.
+
+8 Organization also want to build and host all the Information System  in public cloud (Google cloud Platform).
